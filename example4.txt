@@ -1,0 +1,5 @@
+açılış
+
+tahsis x = 10
+tahsis y = 20
+tahsis z = x + y

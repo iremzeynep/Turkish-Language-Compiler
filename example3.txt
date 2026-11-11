@@ -1,0 +1,10 @@
+açılış
+
+tahsis x = 5
+
+döndur x > 0
+    tahsis x = x - 1
+son
+
+mutlu son
+

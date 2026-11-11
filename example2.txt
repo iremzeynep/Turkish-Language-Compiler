@@ -1,0 +1,8 @@
+açılış
+
+dolaş i = 0 den 5 kadar
+    tahsis toplam = toplam + i
+son
+
+mutlu son
+

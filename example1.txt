@@ -1,0 +1,14 @@
+açılış
+
+tahsis x = 10
+tahsis y = 20
+
+şayet x > y buysa
+    tahsis max = x
+son
+yahut
+    tahsis max = y
+son
+
+mutlu son
+
